@@ -11,14 +11,17 @@
 - Offer a clean and user-friendly interface for navigation and interaction
 
 ## ⚙️ Technologies Used
-- **Kotlin** — for application logic
-- **XML** — for layout and UI design
-- **Room (SQLite)** — for storing plants locally
-- **Firebase Authentication** — for user sign-up, sign-in, and password management
-- **RecyclerView** — to efficiently display a scrollable list of plants
-- **Navigation Component** — to handle navigation between fragments
-- **ViewModel + Repository** — using the MVVM architecture for data management
-
+- **Kotlin** — for all backend and logic implementation
+- **XML** — for building intuitive and responsive layouts
+- **RecyclerView** — for dynamic list display of plant items
+- **Single Activity Architecture** — entire app runs on one Activity using multiple Fragments
+- **Navigation Component** — handles all fragment navigation seamlessly
+- **BottomNavigationView** — for switching between Plant List, Add Plant, and Profile screens
+- **Room (SQLite)** — local database to store plant data tied to user accounts
+- **Firebase Authentication** — for secure user sign-in, sign-up, and password reset
+- **Firebase Realtime Database** — optionally used for storing base plant data accessible to all users
+- **ViewModel + Repository + LiveData** — following MVVM architecture for data handling
+  
 ## 📦 Features
 - Display a dynamic list of all plants added by the current user
 - Open a detail page with full plant information (including optional photo, blooming season, Wikipedia link, etc.)
