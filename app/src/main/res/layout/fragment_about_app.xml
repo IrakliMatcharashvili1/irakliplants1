@@ -1,0 +1,54 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".manu.FragmentAboutApp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/textAppTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IrakliPlants"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#388E3C"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/textAppDescription"
+            android:layout_width="match_parent"
+            android:layout_height="410dp"
+            android:layout_marginBottom="40dp"
+            android:lineSpacingExtra="5dp"
+            android:text="შეიქმნა მცენარეების
+            მოყვარულებისთვის,რომ მარტივად შეძლონ თავიანთი მწვანე მეგობრების დამატება, აღწერა და მოვლის დეტალების ნახვა.\n\nაპლიკაცია მიზნად ისახავს იმ ადამიანების დახმარებას, ვინც ზრუნავს ბუნებაზე და სურს უკეთ შეისწავლოს მცენარეების შესახებ ინფორმაცია.\n\nშექმნილია სტუდენტური პროექტის ფარგლებში — სიყვარულით და შთაგონებით გარემოსადმი."
+            android:textColor="#150F2A"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textCreatedBy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Created by Irakli Matcharashvili"
+            android:textSize="14sp"
+            android:textColor="#388E3C"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:id="@+id/textYear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2025"
+            android:textSize="14sp"
+            android:textColor="#388E3C"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+</ScrollView>

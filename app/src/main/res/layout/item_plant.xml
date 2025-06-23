@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/plantCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="16dp"
+    app:strokeColor="#388E3C"
+    app:strokeWidth="1dp"
+    android:clickable="true"
+    android:foreground="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/ivPlantPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:contentDescription="@string/plant_photo_desc"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/tvPlantName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="Plant Name"
+            android:textColor="#388E3C"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvLatinName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Latin Name"
+            android:textColor="#888888"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

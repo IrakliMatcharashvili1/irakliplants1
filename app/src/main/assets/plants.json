@@ -1,0 +1,123 @@
+[
+  {
+    "name": "ტიტა",
+    "latinName": "Tulipa",
+    "naturalHabitat": "ცენტრალური აზია",
+    "bloomingSeason": "გაზაფხული",
+    "soil": "სუფთა, ნოყიერი და კარგად დრენაჟირებული ნიადაგი",
+    "careInstructions": "მორწყვა რეგულარულად ზრდის პერიოდში, გადაჭარბებული მორწყვა უნდა მოერიდოთ",
+    "interestingFact": "ნიდერლანდებში ტიტები ერთ დროს ოქროზე ძვირფასი იყო",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ტიტა",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG/1280px-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG"
+  },
+  {
+    "name": "ვარდი",
+    "latinName": "Rosa",
+    "naturalHabitat": "აზია, ევროპა, ჩრდილოეთი ამერიკა",
+    "bloomingSeason": "გაზაფხული-შემოდგომა",
+    "soil": "ლომიანი, კარგად დრენაჟირებული ნიადაგი",
+    "careInstructions": "სჭირდება 6-8 საათი მზის განათება და რეგულარული გასხვლა",
+    "interestingFact": "ვარდები ერთ-ერთი უძველესი ყვავილებია დეკორაციებში",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ვარდი",
+    "photoUri": "https://www.englishroses.co.uk/wp-content/uploads/2024/09/Hello-Gorgeous-Rose-Single-Bloom-Main-Image.jpg"
+  },
+  {
+    "name": "მზესუმზირა",
+    "latinName": "Helianthus annuus",
+    "naturalHabitat": "ჩრდილოეთი ამერიკა",
+    "bloomingSeason": "ზაფხული",
+    "soil": "ნოყიერი, კარგად დრენაჟირებული ნიადაგი",
+    "careInstructions": "სურვილია სრული მზე და ზომიერი მორწყვა",
+    "interestingFact": "მზესუმზირეები 3 მეტრამდე აღწევს სიმაღლეში",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/მზესუმზირე",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/7/73/Sunflower_USFWS.jpg"
+  },
+  {
+    "name": "ნარცისი",
+    "latinName": "Narcissus",
+    "naturalHabitat": "ევროპა, ჩრდილოეთ აფრიკა",
+    "bloomingSeason": "გაზაფხული",
+    "soil": "სველი, კარგად დრენაჟირებული ნიადაგი",
+    "careInstructions": "ტყავები უნდა დაირგოს შემოდგომაზე; ზომიერი მორწყვა სჭირდება",
+    "interestingFact": "ნარცისები აღორძინებისა და ახალი დასაწყისების სიმბოლოა",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ნარცისი",
+    "photoUri": "https://mkurnali.ge/media/_thumb/images/new_images/mcenareebi/narcisi.webp"
+  },
+  {
+    "name": "ლავანდა",
+    "latinName": "Lavandula",
+    "naturalHabitat": "მედიტერანული რეგიონი",
+    "bloomingSeason": "ზაფხული",
+    "soil": "ქვიშიანი, კარგად დრენაჟირებული ნიადაგი",
+    "careInstructions": "სჭირდება სრული მზე და ცოტა წყალი; გამძლეა შხაპის მიმართ",
+    "interestingFact": "ლავანდა ფართოდ გამოიყენება სურნელოვანი ზეთების და არომათერაპიისთვის",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ლავანდა",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/1200px-Single_lavender_flower02.jpg"
+  },
+  {
+    "name": "ორქიდეა",
+    "latinName": "Orchidaceae",
+    "naturalHabitat": "მსოფლიო, ძირითადად ტროპიკები",
+    "bloomingSeason": "მორფოლოგიური სახეობების მიხედვით მერყეობს",
+    "soil": "ხის ქერქის ან ხავსის ნარევი, კარგად დრენაჟირებული",
+    "careInstructions": "სჭირდება არამარტო პირდაპირი სინათლე და ზომიერი ტენიანობა",
+    "interestingFact": "ორქიდეები ყვავილოვანი მცენარეების ერთ-ერთი უდიდესი ოჯახია",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ორქიდეა",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lady_orchid_Orchis_purpurea_inflorescence.jpg/330px-Lady_orchid_Orchis_purpurea_inflorescence.jpg"
+  },
+  {
+    "name": "მარგალიტი",
+    "latinName": "Tagetes",
+    "naturalHabitat": "ამერიკები",
+    "bloomingSeason": "ზაფხული-შემოდგომა",
+    "soil": "კარგად დრენაჟირებული, ზომიერი ნოყიერების მიწა",
+    "careInstructions": "სურვილია სრული მზე და რეგულარული მორწყვა",
+    "interestingFact": "მარგალიტები ბუნებრივად ასახვევენ ბევრ მავნებელს",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/მარგალიტი",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/e/e7/French_marigold_Tagetes_patula.jpg"
+  },
+  {
+    "name": "იორდასალამი",
+    "latinName": "Paeonia",
+    "naturalHabitat": "აზია, ევროპა, დასავლეთი ჩრდილოეთ ამერიკა",
+    "bloomingSeason": "გაზაფხულის ბოლო პერიოდი - ზაფხულის დასაწყისი",
+    "soil": "მდიდარი, კარგად დრენაჟირებული ნიადაგი",
+    "careInstructions": "სჭირდება სრული მზე და კარგი ჰაერის ცირკულაცია",
+    "interestingFact": "იორდასალამი 100 წელზე მეტხანს ცოცხლობენ",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/იორდასალამი",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%E1%83%98%E1%83%9D%E1%83%A0%E1%83%93%E1%83%90%E1%83%A1%E1%83%90%E1%83%9A%E1%83%90%E1%83%9B%E1%83%98_Paeonia_suffruticosa.JPG/330px-%E1%83%98%E1%83%9D%E1%83%A0%E1%83%93%E1%83%90%E1%83%A1%E1%83%90%E1%83%9A%E1%83%90%E1%83%9B%E1%83%98_Paeonia_suffruticosa.JPG"
+  },
+  {
+    "name": "ქრიზანთემა",
+    "latinName": "Chrysanthemum",
+    "naturalHabitat": "აზია და ჩრდ-აღმოსავლეთი ევროპა",
+    "bloomingSeason": "შემოდგომა",
+    "soil": "კარგად დრენაჟირებული, ნოყიერი ნიადაგი",
+    "careInstructions": "სურვილია ცივი ტემპერატურა და რეგულარული მორწყვა",
+    "interestingFact": "ქრიზანთემები ხშირად გამოიყენება ჩაის დასამზადებლად",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ქრიზანთემა",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Chrysanthemum_morifolium_cv2.jpg/800px-Chrysanthemum_morifolium_cv2.jpg"
+  },
+  {
+    "name": "ჟასმინი",
+    "latinName": "Jasminum",
+    "naturalHabitat": "ტროპიკული და თბილი რეგიონები",
+    "bloomingSeason": "გაზაფხული-ზაფხული",
+    "soil": "კარგად დრენაჟირებული, ნოყიერი ნიადაგი",
+    "careInstructions": "სჭირდება სრული მზე და ზომიერი მორწყვა",
+    "interestingFact": "ჟასმინი გამოიყენება სურნელოვანი ზეთებისა და ჩაის დასამზადებლად",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ჟასმინი",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jasminum_polyanthum_flowers.JPG"
+  },
+  {
+    "name": "ჰორტენზია",
+    "latinName": "Hydrangea",
+    "naturalHabitat": "აზია და ამერიკები",
+    "bloomingSeason": "ზაფხული",
+    "soil": "სველი, კარგად დრენაჟირებული ნიადაგი",
+    "careInstructions": "სურვილია ნაწილი ჩრდილში და რეგულარული მორწყვა",
+    "interestingFact": "ჰორტენზია ყვავილები იცვლება მიწის pH-ს მიხედვით",
+    "wikipediaUrl": "https://ka.wikipedia.org/wiki/ჰორტენზია",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hydrangea_macrophylla_-_Bigleaf_hydrangea2.jpg/330px-Hydrangea_macrophylla_-_Bigleaf_hydrangea2.jpg"
+  }
+]

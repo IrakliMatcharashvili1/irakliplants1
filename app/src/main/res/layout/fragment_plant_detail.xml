@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/plantDetailLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/ivPlantPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="320dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/tvPlantName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#388E3C"
+            android:layout_marginTop="12dp" />
+
+        <TextView
+            android:id="@+id/tvLatinName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#666"
+            android:textSize="16sp"
+            android:layout_marginTop="4dp" />
+
+        <TextView
+            android:id="@+id/tvNaturalHabitat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:layout_marginTop="12dp" />
+
+        <TextView
+            android:id="@+id/tvBloomingSeason"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/tvSoil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/tvCareInstructions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/tvInterestingFact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/tvWikipedia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_blue_dark"
+            android:layout_marginTop="8dp" />
+    </LinearLayout>
+</ScrollView>

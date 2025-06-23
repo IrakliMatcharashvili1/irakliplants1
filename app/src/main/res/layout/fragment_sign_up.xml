@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/firstNameInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="სახელი">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/firstNameEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/lastNameInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="გვარი">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/lastNameEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/ageInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="ასაკი">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/ageEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/emailInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/emailEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/passwordInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="პაროლი">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/passwordEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/repeatPasswordInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="გაიმეორე პაროლი">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/repeatPasswordEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/signUpButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="რეგისტრაცია"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#388E3C"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:id="@+id/goToSignInTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Do you already have an account? Sign in"
+            android:layout_marginTop="16dp"
+            android:textColor="#388E3C" />
+    </LinearLayout>
+</ScrollView>
